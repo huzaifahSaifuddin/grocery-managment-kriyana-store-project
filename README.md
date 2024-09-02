@@ -1,3 +1,5 @@
+youtube channel : https://www.youtube.com/@darkgamer-nv8oc
+
 This code creates a basic graphical user interface (GUI) for a "Kiryana Store" (a grocery store) using Python's tkinter library. The program simulates a simple shopping experience, where users can view items, add them to a cart, remove items, and check out. Here's a breakdown of what this code can do:
 
 1. Login System
