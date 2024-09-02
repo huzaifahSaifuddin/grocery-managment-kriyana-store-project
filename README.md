@@ -2,11 +2,15 @@ This code creates a basic graphical user interface (GUI) for a "Kiryana Store" (
 
 1. Login System
 User Authentication: When the program starts, the user is presented with a login screen where they must enter a username and password. This is a simple placeholder authentication system; any input will be accepted, and the user will proceed to the main menu if both fields are filled.
+
 2. Main Menu
 After logging in, the user can choose from several options in the main menu:
 
-View Items: Displays a list of available grocery items, their prices, and current stock levels.
-View Cart: Shows the items the user has added to their cart, along with the quantity of each item.
+View Items: 
+        Displays a list of available grocery items, their prices, and current stock levels.
+
+View Cart: 
+        Shows the items the user has added to their cart, along with the quantity of each item.
 Add Items: Allows the user to add items to their cart by entering the item's name and quantity. The program checks if the item exists and if there is enough stock before adding it to the cart.
 Remove Items: Enables the user to remove items from their cart by specifying the item name and quantity. The program will update the cart and restock the item if removed successfully.
 Check Out: Displays the total cost of the items in the cart, and finalizes the purchase by clearing the cart and thanking the user.
